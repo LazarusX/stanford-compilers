@@ -1,0 +1,8 @@
+*.class
+lexer
+CoolLexer.java
+RESULTS
+SCORE
+test.out
+test.out.unfilt
+test-output
