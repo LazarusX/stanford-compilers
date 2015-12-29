@@ -1,6 +1,4 @@
 *.class
-lexer
-CoolLexer.java
 RESULTS
 SCORE
 test.out
